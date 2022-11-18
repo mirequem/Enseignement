@@ -2,23 +2,13 @@
 
 [TOC]
 
-## Ajout d'une projet Pompe peristaltique sphygmo-oxymétrie
-
-Objectif:
-
-
-
-Proposition:
-
-
+## Laser speckle contrast imaging avec un fantôme de tissu perfusé (pompe-seringue)
 
 ## Microscopie HiLo
 
 ## Cytométrie de flux avec pompe-seringue
 
-## OCT avec source balayé?
-
-## Optique des tissus: automatisation
+## Optical coherence tomography
 
 ## Microscopie confocale: ajouter un laser bleu
 
